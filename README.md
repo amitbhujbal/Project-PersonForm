@@ -31,11 +31,12 @@ A simple iOS app that stores and manages personal information using Core Data.
    - Dismiss button
    - CSV Export option
 
-
-## Requirements
-
-- iOS 15+
-- Xcode 15+
+## Technical Details
+- Built with Swift
+- Uses Core Data for local persistence
+- CSV file generation and export support
+- Supports iOS 15+
+- Developed using Xcode 15+
 
 ## Author
 
